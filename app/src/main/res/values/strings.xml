@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NEQUI COLOMBIA</string>
+    <string name="logouno">@drawable/uno</string>
+    <string name="logodos">@drawable/dos</string>
+    <string name="circle">@drawable/circuloroj</string>
+    <string name="textoservicio">Paga tus facturas desde tu aplicación facil y rapido</string>
+    <string name="back"><![CDATA[<<<]]></string>
+</resources>
